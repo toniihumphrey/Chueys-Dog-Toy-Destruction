@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+	color: 8c4b9e
+}
+h1 {
+  color: 4b689e;
+}
